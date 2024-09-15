@@ -1,5 +1,3 @@
-Here’s a suggested structure for your GitHub README file for your project "Sentiment Analysis on Twitter Data":
-
 ---
 
 # Sentiment Analysis on Twitter Data
